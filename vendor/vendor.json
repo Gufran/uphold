@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "8d92cf5fc15a4382f8964b08e1f42a75c0591aa3",
+			"revisionTime": "2016-03-19T05:57:00+11:00"
+		},
+		{
+			"path": "golang.org/x/net/context",
+			"revision": "991d3e32f76f19ee6d9caadb3a22eae8d23315f7",
+			"revisionTime": "2016-03-24T11:19:19+11:00"
+		},
+		{
+			"path": "golang.org/x/oauth2",
+			"revision": "2897dcade18a126645f1368de827f1e613a60049",
+			"revisionTime": "2016-03-23T13:11:01-05:00"
+		},
+		{
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "2897dcade18a126645f1368de827f1e613a60049",
+			"revisionTime": "2016-03-23T13:11:01-05:00"
+		},
+		{
+			"path": "google.golang.org/appengine/internal",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		},
+		{
+			"path": "google.golang.org/appengine/internal/base",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		},
+		{
+			"path": "google.golang.org/appengine/internal/datastore",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		},
+		{
+			"path": "google.golang.org/appengine/internal/log",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		},
+		{
+			"path": "google.golang.org/appengine/internal/remote_api",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		},
+		{
+			"path": "google.golang.org/appengine/internal/urlfetch",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		},
+		{
+			"path": "google.golang.org/appengine/urlfetch",
+			"revision": "488e34aaffd6e7f0cf3e849664a2d305c5298868",
+			"revisionTime": "2015-11-05T11:08:43+11:00"
+		}
+	]
+}
